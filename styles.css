@@ -1,0 +1,184 @@
+*{
+  padding: 0px;
+  margin:  0px;
+  font-family: arial, sans-serif;
+  box-sizing: border-box;
+  width: 960px;
+  margin: 0 auto;
+  background-color: brown;
+
+}
+.stranica{
+  width: 960px;
+}
+.vrhstr{
+  position: relative;
+  width: 200px;
+  top: 20px;
+  margin-bottom: 20px;
+}
+.vrh{
+  background-color: darkgray;
+}
+.tipka1{
+  color: white;
+  width: 50px;
+  background-color: darkgray;
+  border: 0;
+  padding: 10px 10px;
+  margin-left: 40px;
+  margin-right: 10px;
+}
+.tipka2{
+  color: white;
+  width: 70px;
+  background-color: darkgray;
+  border: 0;
+  padding: 15px 15px;
+  margin-left: 10px;
+  margin-right: 2px;
+}
+.tipka3{
+  color: white;
+  width: 100px;
+  background-color: darkgray;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-top: 0px;
+  border-bottom: 0px;
+  padding: 15px 15px;
+  margin-left: 10px;
+  margin-right: 2px;
+}
+.uvod{
+  border-color: darkseagreen;
+  height: 300px;
+}
+.slika{
+  width: 180px;
+  margin-left: 50px;
+  margin-top: 60px;
+
+  background-color: darkseagreen;
+}
+.tekst{
+  color: white;
+  background-color: darkseagreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: arial;
+  font-size: 14px;
+
+}
+.naslov{
+  background-color: darkseagreen;
+  font-size: 30px;
+}
+.tekst1{
+  width: 600px;
+  margin-top: 110px;
+  margin-bottom: 30px;
+  background-color: darkseagreen;
+  font-size: 16px;
+}
+.glavni{
+  height: 600px;
+  margin-top: 20px;
+}
+.lijevo{
+  position: relative;
+  margin-left: 1px;
+  background-color: lightsteelblue;
+  width: 300px;
+  height: 700px;
+  margin-bottom: 10px;
+}
+.tipka4{
+  color: white;
+  background-color: lightsteelblue;
+  border-top: 0px;
+  border-bottom: 1px solid white;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  width: 200px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+}
+.tipka5{
+  color: white;
+  background-color: lightsteelblue;
+  border-top: 0px;
+  border-bottom: 1px solid white;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  width: 200px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-top: 10px;
+}
+.tipka6{
+  color: white;
+  background-color: lightsteelblue;
+  border-top: 0px;
+  border-bottom: 1px solid white;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  width: 200px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-top: 10px;
+}
+.tipka7{
+  color: white;
+  background-color: lightsteelblue;
+  border-top: 0px;
+  border-bottom: 1px solid white;
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+  top: 20px;
+  width: 200px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-top: 10px;
+}
+.donjidio{
+  height: 700px;
+  display: flex;
+  justify-content: center;;
+}
+.desno{
+  width: 670px;
+
+  background-color: lavender;
+}
+.naslov2{
+  color: darkslategray;
+  background-color: lavender;
+  font-size: 22px;
+}
+.tekst2{
+  margin-top: 15px;
+  width: 620px;
+  margin-top: 15px;
+  background-color: lavender;
+}
